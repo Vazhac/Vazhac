@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vazha-chiaberashvili" target="blank"><img align="center" src="hhttps://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="vazha-chiaberashvili" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vazha-chiaberashvili" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="vazha-chiaberashvili" height="30" width="40" /></a>
 <a href="https://fb.com/chiaberashvilivazha" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="chiaberashvilivazha" height="30" width="40" /></a>
 <a href="https://instagram.com/night_crawla_beats" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="night_crawla_beats" height="30" width="40" /></a>
 </p>
