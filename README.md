@@ -20,7 +20,6 @@
     <a href="https://instagram.com/night_crawla_beats" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="night_crawla_beats" height="30"
             width="40" /></a>
-</p>
 <a href="https://soundcloud.com/ognc" target="blank"><img align="center"
         src="https://cdn.worldvectorlogo.com/logos/soundcloud.svg" alt="night_crawla_beats" height="30"
         width="40" /></a>
